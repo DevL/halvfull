@@ -9,3 +9,5 @@ Har du inte appen? Rapportera hur full krogen du är på med hastaggen #halvfull
 1. **19 Glas**, nu: halvfull, mat: 5/5, dryck: 5/5, pris: 3/5
 2. **Tritonia**, nu: tokfullt, mat: 3/5, dryck: 4/5, pris: 2/5
 3. **Burger King**, nu: tomt, mat: 1/5, dryck: -, pris: 1/5
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=halvfullnu&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #halvfullnu</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
